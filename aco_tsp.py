@@ -4,6 +4,8 @@ import pylab as gr
 import math
 import timeit
 
+#ACO aplicado ao problema do caixeiro viajante (TSP)
+
 ncidades = 20
 iteracoes = 40
 alfa = 1
